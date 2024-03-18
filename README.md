@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AryanAdarsh
 - 👀 I’m interested in gaining real world experience in professinal work. 
-- 🌱 I’m currently learning C\C++ and Python.
-- 💞️ I’m looking to collaborate on Web Development projects.
+- 🌱 I’m currently learning C# and Python.
+- 💞️ I’m looking to collaborate on Web Development and ML projects.
 - 📫 How to reach me : aryanadarsh2002@gmail.com
 
 <!---
